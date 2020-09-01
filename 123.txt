@@ -1,0 +1,9 @@
+18374916282702
+猫密码：c59gq2cd
+手机：60:ab:67:f9:31:f0
+电脑：80:c5:f2:70:83:09
+mysql：123456
+公司IP：192.168.31.30
+RabbitMQ：启动RabbitMQ的CMD 输入指令rabbitmq-server.bat
+MysqlName：DeltaFoX
+123123123
